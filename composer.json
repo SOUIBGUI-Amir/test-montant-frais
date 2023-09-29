@@ -1,0 +1,17 @@
+{
+    "name": "souibgui/test-montant-frais",
+    "description": "TestPackages",
+    "type": "library",
+    "license": "nokia",
+    "autoload": {
+        "psr-4": {
+            "Souibgui\\TestMontantFrais\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "souibgui"
+        }
+    ],
+    "require": {}
+}
